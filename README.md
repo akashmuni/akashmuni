@@ -168,9 +168,12 @@ const akash = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akashmuni&show_icons=true&theme=dark&hide_border=true&title_color=F2C94C&icon_color=F2C94C&text_color=F2EDE4&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmuni&layout=compact&theme=dark&hide_border=true&title_color=F2C94C&text_color=F2EDE4&bg_color=0d1117&count_private=true&langs_count=8" />
+<a href="https://github.com/akashmuni">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akashmuni&show_icons=true&theme=github_dark&hide_border=true&title_color=F2C94C&icon_color=F2C94C&text_color=F2EDE4&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/akashmuni">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmuni&layout=compact&theme=github_dark&hide_border=true&title_color=F2C94C&text_color=F2EDE4&count_private=true&langs_count=8" />
+</a>
 
 <br/><br/>
 
@@ -184,7 +187,9 @@ const akash = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=akashmuni&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
+<a href="https://github.com/akashmuni">
+  <img src="https://github-profile-trophy.vercel.app/?username=akashmuni&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+</a>
 
 </div>
 
